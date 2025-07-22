@@ -5,13 +5,13 @@ A fast-paced, vertical car dodging game built with Python and Pygame. Navigate t
 ## 🎮 Game Preview
 
 ### Screenshots
-![Main Menu](docs/images/main-menu.png)
+![Main Menu](docs/menu.png)
 *Main menu with animated background*
 
-![Gameplay](docs/images/gameplay.png)
+![Gameplay](docs/Screenshot 2025-06-01 165504.png)
 *Intense gameplay action*
 
-![Game Over](docs/images/game-over.png)
+![Game Over](docs/gameover.png)
 *Game over screen with score display*
 
 ### Demo Video
