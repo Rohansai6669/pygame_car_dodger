@@ -6,17 +6,16 @@ A fast-paced, vertical car dodging game built with Python and Pygame. Navigate t
 
 ### Screenshots
 ![Main Menu](docs/menu.png)
+
 *Main menu with animated background*
 
-![Gameplay](docs/Screenshot 2025-06-01 165504.png)
+![Gameplay](docs/gameplay.png)
+
 *Intense gameplay action*
 
 ![Game Over](docs/gameover.png)
-*Game over screen with score display*
 
-### Demo Video
-[![Car Dodger Gameplay](docs/images/gameplay-thumbnail.png)](docs/videos/gameplay-demo.mp4)
-*Click to watch gameplay demo*
+*Game over screen with score display*
 
 ## ✨ Features
 
@@ -138,7 +137,5 @@ car_width, car_height = 80, 45  # Car dimensions
 - High score persistence between sessions
 
 ---
-
-**Made with ❤️ and Python**
 
 *Happy dodging! 🚗💨*
