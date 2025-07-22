@@ -1,6 +1,8 @@
-# 🚗 Car Dodger - Enhanced Vertical Racing Game
+# 🚗 Car Dodger
 
 A fast-paced, vertical car dodging game built with Python and Pygame. Navigate through traffic, avoid collisions, and achieve the highest score possible!
+
+Play Game ( https://[rohansai6669.github.io/pygame_car_dodger/] )
 
 ## 🎮 Game Preview
 
@@ -63,14 +65,14 @@ A fast-paced, vertical car dodging game built with Python and Pygame. Navigate t
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-dodger.git
-cd car-dodger
+git clone https://[github.com/Rohansai6669/pygame_car_dodger]
+cd pygame_car_dodger
 
 # Install dependencies
 pip install pygame
 
 # Run the game
-python car_dodger.py
+python main.py
 ```
 
 
